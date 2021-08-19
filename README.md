@@ -1,4 +1,4 @@
-# Hi! i'm Gabriel 🤩👋
+# Hi! I'm Gabriel 🤩👋
 
 # Seja Bem-vindo(a) ao meu GitHub 🥳
 
