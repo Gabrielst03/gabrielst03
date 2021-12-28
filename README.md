@@ -8,4 +8,4 @@
 
 # Formação
 - Desenvolvimento de Sistemas (SENAI BAHIA) - [Cursando o 1° Semetre]
-- Manutenção e Suporte em Informática (Colégio Estadual Edvaldo Fernandes) [Cursando o 3° e Último Ano]
+- Manutenção e Suporte em Informática (Colégio Estadual Edvaldo Fernandes) [Concluído ✅]
