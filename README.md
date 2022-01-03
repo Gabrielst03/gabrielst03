@@ -2,10 +2,17 @@
 
 # Seja Bem-vindo(a) ao meu GitHub 🥳
 
-* Sou um estudante da área de TI cursando Manutenção e Suporte em Informática e Desenvolvimento de Sistemas
+* Sou um estudante da área de TI cursando Engenharia de Sofware
 * Focado em Desenvolvimento Web e Mobile (ReactJS e React Native)
-* Aqui eu posto todos os códigos das minhas aplicações desenvolvidas 😄
+
+# Tecnologias que uso 👨‍💻
+* HTML & CSS 🤛
+* Javascript 💛
+* React.js & React Native ⚛
+* PHP8 👨‍⚖️
+* Bootstrap 5 🎨
+* jQuery & Ajax ✨
 
 # Formação
-- Desenvolvimento de Sistemas (SENAI BAHIA) - [Cursando o 1° Semetre]
+- Engenharia de Software [Cursando]
 - Manutenção e Suporte em Informática (Colégio Estadual Edvaldo Fernandes) [Concluído ✅]
