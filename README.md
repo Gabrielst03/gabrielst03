@@ -12,6 +12,7 @@
 * PHP8 👨‍⚖️
 * Bootstrap 5 🎨
 * jQuery & Ajax ✨
+* MySQL 🐋
 
 # Formação
 - Engenharia de Software [Cursando]
