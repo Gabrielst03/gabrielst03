@@ -11,6 +11,7 @@
 * React.js & React Native ⚛
 * PHP8 👨‍⚖️
 * Bootstrap 5 🎨
+* Styled Components (CSS in JS) 🎊
 * jQuery & Ajax ✨
 * MySQL 🐋
 
