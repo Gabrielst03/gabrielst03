@@ -16,5 +16,7 @@
 * MySQL 🐋
 
 # Formação
-- Engenharia de Software [Cursando]
+- Cursando Engenharia de Software (Universidade Estácio de Sá)
 - Manutenção e Suporte em Informática (Colégio Estadual Edvaldo Fernandes) [Concluído ✅]
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielst03)](https://github.com/gabrielst03/github-readme-stats)
