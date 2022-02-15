@@ -21,5 +21,5 @@
 ---
 
 ## ⭐ Formação
-👩‍💻 Cursando Engenharia de Software na Universidade Estácio de Sá.
-💻 Formação Técnica em Manutenção e Suporte em Informática.
+- 👩‍💻 Cursando Engenharia de Software na Universidade Estácio de Sá.
+- 💻 Formação Técnica em Manutenção e Suporte em Informática.
