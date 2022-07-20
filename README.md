@@ -43,8 +43,3 @@
   <img src="https://profile-counter.glitch.me/gabrielst03/count.svg?"  />
 </div>
 
-###
-
-<img href="https://raw.githubusercontent.com/gabrielst03/gabrielst03/blob/output/snake.svg" alt="Snake animation" />
-
-###
