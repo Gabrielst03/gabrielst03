@@ -40,11 +40,11 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/gabriels/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/gabrielst03/count.svg?"  />
 </div>
 
 ###
 
-<img href="https://raw.githubusercontent.com/gabriels/gabriels/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/gabrielst03/gabrielst03/blob/output/snake.svg" alt="Snake animation" />
 
 ###
