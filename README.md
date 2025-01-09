@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm a Software Engineer<br>🇧🇷 From Brazil<br><br>
+👨‍💻 Hi! My name is Gabriel, I'm a Software Engineer<br>🇧🇷 From Brazil<br><br>
 
 
 ## 🌐 Socials:
